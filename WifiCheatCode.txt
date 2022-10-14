@@ -1,0 +1,6 @@
+Check system is connected with number of wifi.
+1.wlan show profile
+
+Get alredy wifi connectd password in xmln.
+
+2. netsh wlan export profile folder=c:\ key=clear
